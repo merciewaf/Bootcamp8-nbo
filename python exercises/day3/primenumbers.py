@@ -1,5 +1,5 @@
 import unittest
-import primenumbers_test
+import prime_test
 
 def primenumbers(n):
 
